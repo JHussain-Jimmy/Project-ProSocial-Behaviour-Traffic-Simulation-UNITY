@@ -24,4 +24,6 @@ Complete project can be download from [University Cloud](https://cloud.uol.de/s/
 Import Package File in Unity and in your build settings add scenes such that they have particular scene indexes.
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/Project-ProSocial-Behaviour-Traffic-Simulation-UNITY/build scenes (indexes).png?raw=true)
+
+
